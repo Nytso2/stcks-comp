@@ -3,9 +3,10 @@
 ## 📊 Project Overview
 
 This project analyzes the stock price fluctuations of **Amazon, Tesla, and Google** and investigates whether **U.S. presidential elections** have a significant impact on their prices. Given the influence of big tech on the market, understanding how political events affect stock valuations is essential for investors.
+```bash
 
 ## ❓ Research Question
-
+```
 **Do U.S. presidential elections significantly affect the stock prices of Amazon, Tesla, and Google?**
 
 ## 📂 Data Source
@@ -69,13 +70,6 @@ TSLA = -66.6584 + 2.3300 * GOOGL - 36.6971 * ElectionYear R-squared: 0.805 (80.5
 
 - Data limited to **last 10 years** — recent tech trends dominate.
 - **Confounding factors**: COVID-19, quarterly earnings may affect outcomes.
-
-## 👥 Team Members
-
-- Alex Fanney  
-- Charlie Burr  
-- Tucker Sharp  
-- Luis Coronel  
 
 ## 📚 References
 
